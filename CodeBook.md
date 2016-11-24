@@ -3,16 +3,13 @@ This file summarizes the tidy data set formed in `tidy.txt`
 
 #Column Names
 * `subject` - specifies an id of one of the 30 test subjects
-* `activity`- type of activity performed by the test subject. They are marked by labels whose actual meaning can be gathered from the     following table :-
-
-    LABEL | ACTIVITY
-    ----- | --------
-      1| WALKING
-      2| WALKING_UPSTAIRS
-      3| WALKING_DOWNSTAIRS
-      4| SITTING
-      5| STANDING
-      6| LAYING
+* `activity`- type of activity performed by the test subject. They are:-
+      1. WALKING
+      2. WALKING_UPSTAIRS
+      3. WALKING_DOWNSTAIRS
+      4. SITTING
+      5. STANDING
+      6. LAYING
  
 * Rest of the colums correspond to features with mean or standard deviation measurements, They are :-
   
